@@ -1,0 +1,12 @@
+click("1618815800924.png")
+type("calculator")
+click("1618815990829.png")
+click("1618816032583.png")
+click("1618816065715.png")
+wait(2);
+click("1618816209538.png")
+wait(2);
+click("1618816105888.png")
+click("1618816125219.png")
+click("1618816143595.png")
+wait(2);
